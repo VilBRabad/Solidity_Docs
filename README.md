@@ -23,19 +23,15 @@ Contract Source File **.sol** file
                   Ethereum Blockchain
 ```
 
-**1. ABI** : (Abstract Binary Interface)<br /> 
->Helps to Communicate others smart contract with this smart contrac.
-
->In the form of Array of JSON Obj. Format. Consisting Information of Function and more..
+**1. ABI** : (Abstract Binary Interface)
+* Helps to Communicate others smart contract with this smart contrac.
+* In the form of Array of JSON Obj. Format. Consisting Information of Function and more..
 <br /> 
 
 **2. Byte File** : 
-<br /> 
->This consist JSON Object & this Obj...
-
->"object" key  consist byte code
-
->"opcode" key consist opcode (Instructions) --> to excute in EVM (Ethereum Virtual Machine).
+* This consist JSON Object & this Obj...
+* "object" key  consist byte code
+* "opcode" key consist opcode (Instructions) --> to excute in EVM (Ethereum Virtual Machine).
 
 
 ### Some Imp Points:
